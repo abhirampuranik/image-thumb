@@ -1,0 +1,10 @@
+.cropper {
+    position: relative;
+    height: 50vh;
+  }
+
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    flex-direction: column;
+  }
